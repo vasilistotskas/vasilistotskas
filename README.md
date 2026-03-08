@@ -1,6 +1,6 @@
 # Hey there! 👋🚀
 
-I'm **Vasilis**, a Fullstack Developer with a *deep-seated passion* for all things tech! 🖥️✨ My journey began with a childlike curiosity about the inner workings of computers, and this fascination has blossomed into over **three years** of professional experience in the web development arena.
+I'm **Vasilis**, a Fullstack Developer with a *deep-seated passion* for all things tech! 🖥️✨ My journey began with a childlike curiosity about the inner workings of computers, and this fascination has blossomed into over **six years** of professional experience in the web development arena.
 
 Here's a snapshot of my tech toolkit:
 - 🐍 **Python**, PHP, JavaScript, TypeScript, and SQL for a versatile coding skillset.
